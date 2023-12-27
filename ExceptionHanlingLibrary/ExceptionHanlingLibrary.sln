@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHanlingLibrary", "ExceptionHanlingLibrary.csproj", "{A7DF332C-23FE-4E39-B5FC-A4E9412DE84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DF332C-23FE-4E39-B5FC-A4E9412DE84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DF332C-23FE-4E39-B5FC-A4E9412DE84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DF332C-23FE-4E39-B5FC-A4E9412DE84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DF332C-23FE-4E39-B5FC-A4E9412DE84C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A641BA66-E92B-4646-BC25-87BC7DB77C7D}
+	EndGlobalSection
+EndGlobal
