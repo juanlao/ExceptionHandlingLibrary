@@ -61,7 +61,7 @@ public class NoExceptionHandler : ExceptionHandler
 
 ## Conclusion
 
-This "framwork" provides a flexible and extensible solution for handling exceptions in your projects. By incorporating the decorator pattern and customizable exception handlers, developers can adapt exception handling to meet the specific needs of their applications.
+This "framework" provides a flexible and extensible solution for handling exceptions in your projects. By incorporating the decorator pattern and customizable exception handlers, developers can adapt exception handling to meet the specific needs of their applications.
 
 Fell free to use it and customize it at your desire.
 
